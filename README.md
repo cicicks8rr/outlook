@@ -1,2 +1,0 @@
-# outlook
-Outlook (my project)
